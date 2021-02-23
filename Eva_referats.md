@@ -1,4 +1,3 @@
-
 title: "Pieteikumu klasifikācija"
 author: [Eva Mārtiņsone]
 date: "2021-02-22"
@@ -8,7 +7,7 @@ subtitle: "Referāts"
 lang: "en"
 titlepage: true,
 titlepage-rule-color: "360049"
-titlepage-background: "backgrounds/bacground5.pdf"
+titlepage-background: "backgrounds/background5.pdf"
 ...
 
 # Pieteikumu klasifikacija (virsraksts Nr.1) 
